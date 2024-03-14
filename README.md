@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Juan Ricardo Morales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=VideoGame+Developer;Digital+Entertainment+Design+Engineer;Expert+on+Unity+C-shard;Always+learning+new+things"></a>
+</p>
 
+
+- :school: I am a graduate of [digital entertainment design engineering](https://www.upb.edu.co/es/pregrados/ingenieria-diseno-entretenimiento-medellin) at the [pontificia bolivariana university](https://www.upb.edu.co/es/home).
+- 🤜🤛 I like to work in a team and as a team
+- 
 <!--
 **Bleysiker/Bleysiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
