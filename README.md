@@ -6,7 +6,9 @@
 
 - :school: I am a graduate of [digital entertainment design engineering](https://www.upb.edu.co/es/pregrados/ingenieria-diseno-entretenimiento-medellin) at the [pontificia bolivariana university](https://www.upb.edu.co/es/home).
 - 🤜🤛 I like to work in a team and as a team
-- 
+- I have experience in videogame development
+- I like to do exercise
+- I have experience in group management
 <!--
 **Bleysiker/Bleysiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
