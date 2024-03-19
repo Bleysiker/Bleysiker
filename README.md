@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
   
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/Youtube-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=red">
+<img src="https://img.shields.io/badge/Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
   
 <a href="https://v3.globalgamejam.org/2023/games/babel-9" target="_blank">
 <img src="https://img.shields.io/badge/GGJ_Page-ff9?style=for-the-badge&logoColor=white&color=fbfc40">
@@ -52,24 +52,22 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Babel (Global Game Jam 2023)</h3>
+<h3 align="center">Talkie Camp</h3>
 <div align="center">
 <a href="https://imgur.com/ba0y9Od"><img src="https://i.imgur.com/ba0y9Od.jpg" title="source: imgur.com" /></a>
 <p>
 <a href="https://github.com/Bleysiker/Babel" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
+<img src="https://img.shields.io/badge/Instagram-ff9?style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F">
   
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/Youtube-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=red">
+<a href="https://www.youtube.com/watch?v=hffULUaBp5Y" target="_blank">
+<img src="https://img.shields.io/badge/Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
   
-<a href="https://v3.globalgamejam.org/2023/games/babel-9" target="_blank">
-<img src="https://img.shields.io/badge/GGJ_Page-ff9?style=for-the-badge&logoColor=white&color=fbfc40">
 <p>
- Game completed in 48 hours at the <strong>Global Game Jam 2023</strong>
+"Talkie Camp" is a cooperative online game where players build and socialize in a virtual camp. 
   <p>
- We managed to finish it in time for a RutaN event in Medellín, where we took fourth place
+ My task was to program and add mini-games such as "Futbolito", "Ponchados", "Fogata" and "Recolección de pelotas"
   <p>
- The game is available for download in the page and only requires a mouse to play
+  as well as collaborating in the creation of visual effects such as fire, confetti and fire extinguisher foam.
 </div>
 </p>
 </td>
@@ -78,24 +76,22 @@
   <table>
 <tr>
 <td width="50%">
-<h3 align="center">Babel (Global Game Jam 2023)</h3>
+<h3 align="center">Men In Black VR Museum</h3>
 <div align="center">
 <a href="https://imgur.com/ba0y9Od"><img src="https://i.imgur.com/ba0y9Od.jpg" title="source: imgur.com" /></a>
 <p>
-<a href="https://github.com/Bleysiker/Babel" target="_blank">
+<a href="https://github.com/Bleysiker/Men-In-Black-VR-Museum" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
   
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/Youtube-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=red">
+<a href="https://www.youtube.com/watch?v=Hd6g1vW4PI0" target="_blank">
+<img src="https://img.shields.io/badge/Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
   
-<a href="https://v3.globalgamejam.org/2023/games/babel-9" target="_blank">
-<img src="https://img.shields.io/badge/GGJ_Page-ff9?style=for-the-badge&logoColor=white&color=fbfc40">
 <p>
- Game completed in 48 hours at the <strong>Global Game Jam 2023</strong>
+This project presents information about the Men in Black universe in a virtual museum.
   <p>
- We managed to finish it in time for a RutaN event in Medellín, where we took fourth place
+I led a team in the management and distribution of tasks
   <p>
- The game is available for download in the page and only requires a mouse to play
+ I was also in charge of programming and setting up the Virtual Reality scenario.
 </div>
 </p>
 </td>
