@@ -56,7 +56,10 @@
 <div align="center">
 <a href="https://imgur.com/ba0y9Od"><img src="https://i.imgur.com/ba0y9Od.jpg" title="source: imgur.com" /></a>
 <p>
-<a href="https://github.com/Bleysiker/Babel" target="_blank">
+<a href="https://github.com/mindfulentertainment/talkiecamp" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
+  
+<a href="https://www.instagram.com/talkie_camp?igshid=YmMyMTA2M2Y%3D" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-ff9?style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F">
   
 <a href="https://www.youtube.com/watch?v=hffULUaBp5Y" target="_blank">
@@ -100,24 +103,22 @@ I led a team in the management and distribution of tasks
   <table>
 <tr>
 <td width="50%">
-<h3 align="center">Babel (Global Game Jam 2023)</h3>
+<h3 align="center">Delivery Journey</h3>
 <div align="center">
 <a href="https://imgur.com/ba0y9Od"><img src="https://i.imgur.com/ba0y9Od.jpg" title="source: imgur.com" /></a>
 <p>
-<a href="https://github.com/Bleysiker/Babel" target="_blank">
+<a href="https://github.com/Bleysiker/DeliveryJourney" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
   
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/Youtube-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=red">
+<a href="https://www.youtube.com/watch?v=9BaDQfRzFEk" target="_blank">
+<img src="https://img.shields.io/badge/Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
   
-<a href="https://v3.globalgamejam.org/2023/games/babel-9" target="_blank">
-<img src="https://img.shields.io/badge/GGJ_Page-ff9?style=for-the-badge&logoColor=white&color=fbfc40">
 <p>
- Game completed in 48 hours at the <strong>Global Game Jam 2023</strong>
+ 3D game where you must pick up and deliver boxes while driving, taking care that they don't fall easily.
   <p>
- We managed to finish it in time for a RutaN event in Medellín, where we took fourth place
+  I played roles of team leader, programmer and 2D artist, 
   <p>
- The game is available for download in the page and only requires a mouse to play
+ in charge of task management and the creation of game logic, obstacles and visual effects.
 </div>
 </p>
 </td>
@@ -125,24 +126,22 @@ I led a team in the management and distribution of tasks
   <table>
 <tr>
 <td width="50%">
-<h3 align="center">Babel (Global Game Jam 2023)</h3>
+<h3 align="center">DinoApocalipsis</h3>
 <div align="center">
 <a href="https://imgur.com/ba0y9Od"><img src="https://i.imgur.com/ba0y9Od.jpg" title="source: imgur.com" /></a>
 <p>
-<a href="https://github.com/Bleysiker/Babel" target="_blank">
+<a href="https://github.com/Bleysiker/Dinoapocalipse" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
   
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/Youtube-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=red">
+<a href="https://www.youtube.com/watch?v=jC1qCQVdq5s" target="_blank">
+<img src="https://img.shields.io/badge/Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
   
-<a href="https://v3.globalgamejam.org/2023/games/babel-9" target="_blank">
-<img src="https://img.shields.io/badge/GGJ_Page-ff9?style=for-the-badge&logoColor=white&color=fbfc40">
 <p>
- Game completed in 48 hours at the <strong>Global Game Jam 2023</strong>
+ In Dinoapocalypse, you are a dinosaur that must survive the meteor shower.
   <p>
- We managed to finish it in time for a RutaN event in Medellín, where we took fourth place
+The project was carried out in collaboration to apply physics concepts in a video game.
   <p>
- The game is available for download in the page and only requires a mouse to play
+My responsibility included meteorite programming, game management and implementation of visual and sound effects.
 </div>
 </p>
 </td>
@@ -150,24 +149,22 @@ I led a team in the management and distribution of tasks
   <table>
 <tr>
 <td width="50%">
-<h3 align="center">Babel (Global Game Jam 2023)</h3>
+<h3 align="center">Hope for Home</h3>
 <div align="center">
 <a href="https://imgur.com/ba0y9Od"><img src="https://i.imgur.com/ba0y9Od.jpg" title="source: imgur.com" /></a>
 <p>
-<a href="https://github.com/Bleysiker/Babel" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
+<a href="https://github.com/Bleysiker/HopeForHome" target="_blank">
+<img src="https://img.shields.io/badge/Game-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
   
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/Youtube-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=red">
+<a href="https://www.youtube.com/watch?v=d5SOfMbSL2U" target="_blank">
+<img src="https://img.shields.io/badge/Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
   
-<a href="https://v3.globalgamejam.org/2023/games/babel-9" target="_blank">
-<img src="https://img.shields.io/badge/GGJ_Page-ff9?style=for-the-badge&logoColor=white&color=fbfc40">
 <p>
- Game completed in 48 hours at the <strong>Global Game Jam 2023</strong>
+2D roguelike where you must defeat various bosses and escape from a robotic prison.
   <p>
- We managed to finish it in time for a RutaN event in Medellín, where we took fourth place
+ It was my first university project, developed as a team.
   <p>
- The game is available for download in the page and only requires a mouse to play
+ I was in charge of leading, programming, illustrating and animating. 
 </div>
 </p>
 </td>
