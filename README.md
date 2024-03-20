@@ -26,7 +26,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Babel</h3>
+<!-- <h3 align="center">Babel</h3>-->
 <div align="center">
 <a href="https://imgur.com/4n0Ugyv"><img src="https://i.imgur.com/4n0Ugyv.jpg" title="source: imgur.com" /></a>
 <p>
@@ -52,7 +52,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Talkie Camp</h3>
+<!--<h3 align="center">Talkie Camp</h3>-->
 <div align="center">
 <a href="https://imgur.com/dCoossv"><img src="https://i.imgur.com/dCoossv.jpg" title="source: imgur.com" /></a>
 <p>
@@ -79,7 +79,7 @@
   <table>
 <tr>
 <td width="50%">
-<h3 align="center">Men In Black VR Museum</h3>
+<!--<h3 align="center">Men In Black VR Museum</h3>-->
 <div align="center">
 <a href="https://imgur.com/SWCguRE"><img src="https://i.imgur.com/SWCguRE.jpg" title="source: imgur.com" /></a>
 <p>
@@ -103,7 +103,7 @@ I led a team in the management and distribution of tasks
   <table>
 <tr>
 <td width="50%">
-<h3 align="center">Delivery Journey</h3>
+<!-- <h3 align="center">Delivery Journey</h3>-->
 <div align="center">
 <a href="https://imgur.com/TLHqYsX"><img src="https://i.imgur.com/TLHqYsX.jpg" title="source: imgur.com" /></a>
 <p>
@@ -126,7 +126,7 @@ I led a team in the management and distribution of tasks
   <table>
 <tr>
 <td width="50%">
-<h3 align="center">DinoApocalipsis</h3>
+<!--<h3 align="center">DinoApocalipsis</h3>-->
 <div align="center">
 <a href="https://imgur.com/C8L0pA7"><img src="https://i.imgur.com/C8L0pA7.jpg" title="source: imgur.com" /></a>
 <p>
@@ -149,7 +149,7 @@ My responsibility included meteorite programming, game management and implementa
   <table>
 <tr>
 <td width="50%">
-<h3 align="center">Hope for Home</h3>
+<!--<h3 align="center">Hope for Home</h3>-->
 <div align="center">
 <a href="https://imgur.com/E2xBL6n"><img src="https://i.imgur.com/E2xBL6n.jpg" title="source: imgur.com" /></a>
 <p>
