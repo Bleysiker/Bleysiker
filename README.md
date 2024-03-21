@@ -1,17 +1,18 @@
 <h1 align="center">Hi , I'm Juan Ricardo Morales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=VideoGame+Developer;Digital+Entertainment+Design+Engineer;Expert+on+Unity+C-shard;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Game+Developer;Game+Designer;Digital+Entertainment+Design+Engineer;Unity+C-sharp+expert;Always+learning+new+things"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
- <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-- :school: I am a graduate of [digital entertainment design engineering](https://www.upb.edu.co/es/pregrados/ingenieria-diseno-entretenimiento-medellin) at the [pontificia bolivariana university](https://www.upb.edu.co/es/home).
-- I've worked as a videogame developer at [Mood Studios](https://www.linkedin.com/company/mood-studios/about/)
-- 🤜🤛 I like to work in a team and as a team
-- I like anything related to videogame's enterteinment and development
-- I like to do exercise
-- I have good leadership skills
-- I have good communication skills
+ <!-- <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>-->
+- :school: [Digital Entertainment Design Engineer](https://www.upb.edu.co/es/pregrados/ingenieria-diseno-entretenimiento-medellin) from the [Universidad Pontificia Bolivariana](https://www.upb.edu.co/es/home).
+- I've worked as a game developer at [Mood Studios](https://www.linkedin.com/company/mood-studios/about/).
+-  Game Designer.
+- 🎮 Passionate about videogame entertainment industry and development.
+- Leadership aptitude.
+- 🤜🤛 I like to work in a team and as a team.
+- Great communication skills.
+- I like to do exercise.
  
 ## 🛠️ Tools
 ![Static Badge](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&color=red&link=https%3A%2F%2Funity.com%2Fes)
@@ -20,7 +21,7 @@
 ![Static Badge](https://img.shields.io/badge/CShard-black?style=for-the-badge&logo=C%23&color=%23512BD4&link=https%3A%2F%2Funity.com%2Fes)
 ![Static Badge](https://img.shields.io/badge/Shotcut-black?style=for-the-badge&logo=Shotcut&color=%230B996E&link=https%3A%2F%2Funity.com%2Fes)
 
-## Most Notable Projects
+## Outstanding Projects
 <!--  Babel Section-->
 
 <table>
@@ -28,7 +29,7 @@
 <td width="50%">
 <!-- <h3 align="center">Babel</h3>-->
 <div align="center">
-<a href="https://imgur.com/4n0Ugyv"><img src="https://i.imgur.com/4n0Ugyv.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/pow30Ho"><img src="https://i.imgur.com/pow30Ho.jpg" title="source: imgur.com" /></a>
 <p>
 <a href="https://github.com/Bleysiker/Babel" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
@@ -43,7 +44,7 @@
   <p>
  We managed to finish it in time for a RutaN event in Medellín, where we took fourth place
     <p>
- The game is available for download in the page and only requires a mouse to play
+ The game is available for download in the page and only requires a mouse to play.
 </div>
 </p>
 </td>
@@ -92,7 +93,7 @@
 <p>
 This project presents information about the Men in Black universe in a virtual museum.
   <p>
-I led a team in the management and distribution of tasks
+I led the team in the management and task distribution. 
   <p>
  I was also in charge of programming and setting up the Virtual Reality scenario.
 </div>
@@ -116,9 +117,9 @@ I led a team in the management and distribution of tasks
 <p>
  3D game where you must pick up and deliver boxes while driving, taking care that they don't fall easily.
   <p>
-  I played roles of team leader, programmer and 2D artist, 
+  I played multiple roles including team leader, game designer, game developer and 2D artist. 
   <p>
- in charge of task management and the creation of game logic, obstacles and visual effects.
+ I was in charge of task management and the creation of game logic, obstacles and visual effects.
 </div>
 </p>
 </td>
