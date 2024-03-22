@@ -40,9 +40,9 @@
 <a href="https://v3.globalgamejam.org/2023/games/babel-9" target="_blank">
 <img src="https://img.shields.io/badge/GGJ_Page-ff9?style=for-the-badge&logoColor=white&color=fbfc40">
 <p>
- Game completed in 48 hours at the <strong>Global Game Jam 2023</strong>
+ Game completed in 48 hours at the <strong>Global Game Jam 2023</strong>.
   <p>
- We managed to finish it in time for a RutaN event in Medellín, where we took fourth place
+ We managed to finish it in time for a RutaN event in Medellín, where we took fourth place.
     <p>
  The game is available for download in the page and only requires a mouse to play.
 </div>
@@ -69,9 +69,9 @@
 <p>
 "Talkie Camp" is a cooperative online game where players build and socialize in a virtual camp. 
   <p>
- My task was to program and add mini-games such as "Futbolito", "Ponchados", "Fogata" and "Recolección de pelotas"
+ My task was to program and add mini-games such as "Futbolito", "Ponchados", "Fogata" and "Recolección de pelotas".
   <p>
-  as well as collaborating in the creation of visual effects such as fire, confetti and fire extinguisher foam.
+  I also collaborated in the creation of visual effects such as fire, confetti and fire extinguisher foam.
 </div>
 </p>
 </td>
@@ -142,7 +142,7 @@ I led the team in the management and task distribution.
   <p>
 The project was carried out in collaboration to apply physics concepts in a video game.
   <p>
-My responsibility included meteorite programming, game management and implementation of visual and sound effects.
+My responsibility included game design, game development and implementation of visual and sound effects.
 </div>
 </p>
 </td>
