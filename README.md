@@ -34,7 +34,7 @@
 <a href="https://github.com/Bleysiker/Babel" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
   
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://youtu.be/-Q21FWAAopU?si=8OUqnoSEu-Psc74I" target="_blank">
 <img src="https://img.shields.io/badge/Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
   
 <a href="https://v3.globalgamejam.org/2023/games/babel-9" target="_blank">
