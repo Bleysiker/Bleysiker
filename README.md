@@ -31,7 +31,7 @@
 <div align="center">
 
 https://github.com/Bleysiker/Bleysiker/assets/60669370/c00b506c-20eb-455d-b125-b0d0f870eb56
-
+<p>
 <a href="https://github.com/Bleysiker/Babel" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
     
@@ -41,7 +41,7 @@ https://github.com/Bleysiker/Bleysiker/assets/60669370/c00b506c-20eb-455d-b125-b
  Game completed in 48 hours at the <strong>Global Game Jam 2023</strong>.
   <p>
  We managed to finish it in time for a RutaN event in Medellín, where we took fourth place.
-    <p>
+   <p>
  The game is available for download in the page and only requires a mouse to play.
 </div>
 </p>
@@ -53,7 +53,8 @@ https://github.com/Bleysiker/Bleysiker/assets/60669370/c00b506c-20eb-455d-b125-b
 <td width="50%">
 <!--<h3 align="center">Talkie Camp</h3>-->
 <div align="center">
-<a href="https://imgur.com/dCoossv"><img src="https://i.imgur.com/dCoossv.jpg" title="source: imgur.com" /></a>
+
+https://github.com/Bleysiker/Bleysiker/assets/60669370/4ee299d9-01ce-48ea-bef8-f73f01278479
 <p>
 <a href="https://github.com/mindfulentertainment/talkiecamp" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
@@ -62,7 +63,7 @@ https://github.com/Bleysiker/Bleysiker/assets/60669370/c00b506c-20eb-455d-b125-b
 <img src="https://img.shields.io/badge/Instagram-ff9?style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F">
   
 <a href="https://www.youtube.com/watch?v=hffULUaBp5Y" target="_blank">
-<img src="https://img.shields.io/badge/Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
+<img src="https://img.shields.io/badge/Full Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
   
 <p>
 "Talkie Camp" is a cooperative online game where players build and socialize in a virtual camp. 
@@ -80,14 +81,13 @@ https://github.com/Bleysiker/Bleysiker/assets/60669370/c00b506c-20eb-455d-b125-b
 <td width="50%">
 <!--<h3 align="center">Men In Black VR Museum</h3>-->
 <div align="center">
-<a href="https://imgur.com/SWCguRE"><img src="https://i.imgur.com/SWCguRE.jpg" title="source: imgur.com" /></a>
+  
+https://github.com/Bleysiker/Bleysiker/assets/60669370/a99ad774-b433-4986-aa50-b86c2084c2fe
+
 <p>
 <a href="https://github.com/Bleysiker/Men-In-Black-VR-Museum" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
-  
-<a href="https://www.youtube.com/watch?v=Hd6g1vW4PI0" target="_blank">
-<img src="https://img.shields.io/badge/Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
-  
+    
 <p>
 This project presents information about the Men in Black universe in a virtual museum.
   <p>
@@ -104,13 +104,14 @@ I led the team in the management and task distribution.
 <td width="50%">
 <!-- <h3 align="center">Delivery Journey</h3>-->
 <div align="center">
-<a href="https://imgur.com/TLHqYsX"><img src="https://i.imgur.com/TLHqYsX.jpg" title="source: imgur.com" /></a>
+  
+
+https://github.com/Bleysiker/Bleysiker/assets/60669370/02500f6d-1b9e-4825-8fdd-5439882d7e32
+
+
 <p>
 <a href="https://github.com/Bleysiker/DeliveryJourney" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
-  
-<a href="https://www.youtube.com/watch?v=9BaDQfRzFEk" target="_blank">
-<img src="https://img.shields.io/badge/Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple"> 
   
 <p>
  3D game where you must pick up and deliver boxes while driving, taking care that they don't fall easily.
@@ -127,13 +128,13 @@ I led the team in the management and task distribution.
 <td width="50%">
 <!--<h3 align="center">DinoApocalipsis</h3>-->
 <div align="center">
-<a href="https://imgur.com/C8L0pA7"><img src="https://i.imgur.com/C8L0pA7.jpg" title="source: imgur.com" /></a>
+
+https://github.com/Bleysiker/Bleysiker/assets/60669370/1048f1ff-ba12-4715-afff-20f3da197c82
+
 <p>
 <a href="https://github.com/Bleysiker/Dinoapocalipse" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
-  
-<a href="https://www.youtube.com/watch?v=jC1qCQVdq5s" target="_blank">
-<img src="https://img.shields.io/badge/Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
+ 
   
 <p>
  In Dinoapocalypse, you are a dinosaur that must survive the meteor shower.
@@ -150,13 +151,12 @@ My responsibility included game design, game development and implementation of v
 <td width="50%">
 <!--<h3 align="center">Hope for Home</h3>-->
 <div align="center">
-<a href="https://imgur.com/E2xBL6n"><img src="https://i.imgur.com/E2xBL6n.jpg" title="source: imgur.com" /></a>
+
+https://github.com/Bleysiker/Bleysiker/assets/60669370/603abb29-a8c6-47c9-80be-d78e1f3b3743
+
 <p>
 <a href="https://github.com/Bleysiker/HopeForHome" target="_blank">
-<img src="https://img.shields.io/badge/Game-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
-  
-<a href="https://www.youtube.com/watch?v=d5SOfMbSL2U" target="_blank">
-<img src="https://img.shields.io/badge/Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
+<img src="https://img.shields.io/badge/Game-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">  
   
 <p>
 2D roguelike where you must defeat various bosses and escape from a robotic prison.
