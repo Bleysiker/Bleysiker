@@ -29,14 +29,12 @@
 <td width="50%">
 <!-- <h3 align="center">Babel</h3>-->
 <div align="center">
-<a href="https://imgur.com/pow30Ho"><img src="https://i.imgur.com/pow30Ho.jpg" title="source: imgur.com" /></a>
-<p>
+
+https://github.com/Bleysiker/Bleysiker/assets/60669370/c00b506c-20eb-455d-b125-b0d0f870eb56
+
 <a href="https://github.com/Bleysiker/Babel" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
-  
-<a href="https://youtu.be/-Q21FWAAopU?si=8OUqnoSEu-Psc74I" target="_blank">
-<img src="https://img.shields.io/badge/Preview-ff9?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000">
-  
+    
 <a href="https://v3.globalgamejam.org/2023/games/babel-9" target="_blank">
 <img src="https://img.shields.io/badge/GGJ_Page-ff9?style=for-the-badge&logoColor=white&color=fbfc40">
 <p>
