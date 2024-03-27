@@ -18,7 +18,7 @@
 ![Static Badge](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&color=red&link=https%3A%2F%2Funity.com%2Fes)
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&color=purple&link=https%3A%2F%2Funity.com%2Fes)
 ![Static Badge](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe%20photoshop&color=white&link=https%3A%2F%2Funity.com%2Fes)
-![Static Badge](https://img.shields.io/badge/CShard-black?style=for-the-badge&logo=C%23&color=%23512BD4&link=https%3A%2F%2Funity.com%2Fes)
+![Static Badge](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=C%23&color=%23512BD4&link=https%3A%2F%2Funity.com%2Fes)
 ![Static Badge](https://img.shields.io/badge/Shotcut-black?style=for-the-badge&logo=Shotcut&color=%230B996E&link=https%3A%2F%2Funity.com%2Fes)
 
 ## Outstanding Projects
