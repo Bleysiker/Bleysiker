@@ -9,7 +9,7 @@
 - I've worked as a game developer at [Mood Studios](https://www.linkedin.com/company/mood-studios/about/).
 -  Game Designer.
 - 🎮 Passionate about videogame entertainment industry and development.
-- 🦾 Very good mathematical strengths.
+- 🦾 Mathematical strengths.
 - Leadership aptitude.
 - 🤜🤛 I like to work in a team and as a team.
 - Great communication skills.
