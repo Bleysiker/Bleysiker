@@ -25,6 +25,35 @@
 ![Static Badge](https://img.shields.io/badge/Shotcut-black?style=for-the-badge&logo=Shotcut&color=%230B996E&link=https%3A%2F%2Funity.com%2Fes)
 
 ## Outstanding Projects
+<!--  Neo-Grid Section-->
+
+<table>
+<tr>
+<td width="50%">
+<!-- <h3 align="center">Babel</h3>-->
+<div align="center">
+
+
+
+https://github.com/user-attachments/assets/1200447b-3aca-444e-8d19-97be43ad195a
+
+
+<p>
+<a href="https://github.com/estebanmont/UnrealEntrega" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=white&color=purple">
+    
+<a href="https://lauvr.itch.io/neogrid" target="_blank">
+<img src="https://img.shields.io/badge/GAME-ff9?style=for-the-badge&logo=itchdotio&logoColor=white&color=e62d54">
+<p>
+  Project developed for <strong>U-ECHO Training Center</strong>.
+  <p>
+ Video game created with <strong>Unreal Engine 5</strong>.
+   <p>
+ Available on Itch.io.
+</div>
+</p>
+</td>
+  
 <!--  Babel Section-->
 
 <table>
