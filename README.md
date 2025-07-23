@@ -25,6 +25,33 @@
 ![Static Badge](https://img.shields.io/badge/Shotcut-black?style=for-the-badge&logo=Shotcut&color=%230B996E&link=https%3A%2F%2Funity.com%2Fes)
 
 ## Outstanding Projects
+<!--  Ecos de Mar Section-->
+
+<table>
+<tr>
+<td width="50%">
+<!-- <h3 align="center">Babel</h3>-->
+<div align="center">
+
+
+
+https://github.com/user-attachments/assets/cfbc2674-83d7-45a7-ad0d-2f1e5024c454
+
+
+<p>
+<a href="https://popeton.github.io/ProyectoEcosDeMar/index.html" target="_blank">
+  <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<p>
+  VR experience developed in Unity for the Universidad Pontificia Bolivariana, as part of the "Ecos de Mar" project.</strong>.
+  <p>
+ Responsible for all technical development in the Reef and Twilight scenes, including interactions, visual effects, and gameplay systems.</strong>.
+   <p>
+ Coming soon to the Meta Quest Store — and also being developed for mobile devices.
+</div>
+</p>
+</td>
 <!--  Neo-Grid Section-->
 
 <table>
