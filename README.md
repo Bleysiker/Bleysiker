@@ -5,9 +5,9 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
  <!-- <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>-->
-- :school:👨‍🔬 [Biophilia alliance researcher](https://www.alianzabiofilia.co/investigacion).
-- :school: [Digital Entertainment Design Engineer](https://www.upb.edu.co/es/pregrados/ingenieria-diseno-entretenimiento-medellin) from the [Universidad Pontificia Bolivariana](https://www.upb.edu.co/es/home).
 - 👨‍🔬 I'm currently working as a programmer and game developer for the [Universidad Pontificia Bolivariana](https://www.upb.edu.co/es/home).
+- :school: [Digital Entertainment Design Engineer](https://www.upb.edu.co/es/pregrados/ingenieria-diseno-entretenimiento-medellin) from the [Universidad Pontificia Bolivariana](https://www.upb.edu.co/es/home).
+- :school:👨‍🔬 [Biophilia alliance researcher](https://www.alianzabiofilia.co/investigacion).
 - I've worked as a game developer at [Mood Studios](https://www.linkedin.com/company/mood-studios/about/).
 -  Game Designer.
 - 🎮 Passionate about videogame entertainment industry and development.
