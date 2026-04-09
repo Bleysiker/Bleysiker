@@ -83,15 +83,20 @@ https://github.com/user-attachments/assets/cfbc2674-83d7-45a7-ad0d-2f1e5024c454
 
 
 <p>
+  <a href="https://www.ecosdemar.com">
   <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <p>
-  VR experience developed in Unity for the Universidad Pontificia Bolivariana, as part of the "Ecos de Mar" project.</strong>.
-  <p>
- Responsible for all technical development in the Reef and Twilight scenes, including interactions, visual effects, and gameplay systems.</strong>.
-   <p>
- Coming soon to the Meta Quest Store — and also being developed for mobile devices.
+  I was responsible for the development of the VR and mobile versions of "Ecos de Mar", a Unity-based project created for the Universidad Pontificia Bolivariana.
+</p>
+
+<p>
+  Additionally, I participated as a mediator during several exhibitions of the project, presenting the experience to different audiences.
+</p>
+
+<p>
+  The VR version is currently available for download on our official website.
 </div>
 </p>
 </td>
