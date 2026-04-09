@@ -27,6 +27,48 @@
 ![Shotcut](https://img.shields.io/badge/Shotcut-115C5B?style=for-the-badge&logo=shotcut&logoColor=white)
 
 ## Outstanding Projects
+<!--  Crimson Moon Section-->
+<table>
+<tr>
+<td width="50%">
+<!-- <h3 align="center">Babel</h3>-->
+<div align="center">
+
+
+
+<a href="https://www.youtube.com/watch?v=YmqR8Ad14N8">
+  <img src="https://img.youtube.com/vi/YmqR8Ad14N8/maxresdefault.jpg" alt="Trailer" />
+</a>
+
+
+<p>
+ <a href="https://www.youtube.com/watch?v=YmqR8Ad14N8">
+  <img src="https://img.shields.io/badge/Watch%20Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+<p>
+  <a href="https://www.probablymonsters.com">
+    <img src="https://img.shields.io/badge/Probably%20Monsters-1A237E?style=for-the-badge">
+  </a>
+
+  <a href="https://c2gamestudio.com">
+    <img src="https://img.shields.io/badge/C2%20Game%20Studio-333333?style=for-the-badge">
+  </a>
+</p>
+
+
+<p>
+  Unreal Engine game developed by ProbablyMonsters, with C2 Game Studio contributing to gameplay development.
+</p>
+
+<p>
+  I contributed to general gameplay development, working on core combat mechanics and enemy behavior systems.
+</p>
+
+<p>
+  The official trailer is now available.
+</div>
+</p>
+</td>
 <!--  Ecos de Mar Section-->
 
 <table>
@@ -41,7 +83,6 @@ https://github.com/user-attachments/assets/cfbc2674-83d7-45a7-ad0d-2f1e5024c454
 
 
 <p>
-<a href="https://popeton.github.io/ProyectoEcosDeMar/index.html" target="_blank">
   <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
