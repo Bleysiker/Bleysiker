@@ -19,11 +19,12 @@
 - I like to do exercise.
  
 ## 🛠️ Tools
-![Static Badge](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&color=red&link=https%3A%2F%2Funity.com%2Fes)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&color=0E1128)
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&color=purple&link=https%3A%2F%2Funity.com%2Fes)
-![Static Badge](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe%20photoshop&color=white&link=https%3A%2F%2Funity.com%2Fes)
-![Static Badge](https://img.shields.io/badge/C_Sharp-black?style=for-the-badge&logo=C%23&color=%23512BD4&link=https%3A%2F%2Funity.com%2Fes)
-![Static Badge](https://img.shields.io/badge/Shotcut-black?style=for-the-badge&logo=Shotcut&color=%230B996E&link=https%3A%2F%2Funity.com%2Fes)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Shotcut](https://img.shields.io/badge/Shotcut-115C5B?style=for-the-badge&logo=shotcut&logoColor=white)
 
 ## Outstanding Projects
 <!--  Ecos de Mar Section-->
