@@ -32,7 +32,7 @@
 <table>
 <tr>
 <td width="50%">
-<!-- <h3 align="center">Babel</h3>-->
+<h3 align="center">2025 — Present</h3>
 <div align="center">
 
 
@@ -75,7 +75,7 @@
 <table>
 <tr>
 <td width="50%">
-<!-- <h3 align="center">Babel</h3>-->
+<h3 align="center">2025</h3>
 <div align="center">
 
 
@@ -106,7 +106,7 @@ https://github.com/user-attachments/assets/cfbc2674-83d7-45a7-ad0d-2f1e5024c454
 <table>
 <tr>
 <td width="50%">
-<!-- <h3 align="center">Babel</h3>-->
+<h3 align="center">2023</h3>
 <div align="center">
 
 
@@ -135,7 +135,7 @@ https://github.com/user-attachments/assets/1200447b-3aca-444e-8d19-97be43ad195a
 <table>
 <tr>
 <td width="50%">
-<!-- <h3 align="center">Babel</h3>-->
+<h3 align="center">2023</h3>
 <div align="center">
 
 https://github.com/Bleysiker/Bleysiker/assets/60669370/c00b506c-20eb-455d-b125-b0d0f870eb56
@@ -159,7 +159,7 @@ https://github.com/Bleysiker/Bleysiker/assets/60669370/c00b506c-20eb-455d-b125-b
 <table>
 <tr>
 <td width="50%">
-<!--<h3 align="center">Talkie Camp</h3>-->
+<h3 align="center">2022</h3>
 <div align="center">
 
 https://github.com/Bleysiker/Bleysiker/assets/60669370/4ee299d9-01ce-48ea-bef8-f73f01278479
@@ -187,7 +187,7 @@ https://github.com/Bleysiker/Bleysiker/assets/60669370/4ee299d9-01ce-48ea-bef8-f
   <table>
 <tr>
 <td width="50%">
-<!--<h3 align="center">Men In Black VR Museum</h3>-->
+<h3 align="center">2022</h3>
 <div align="center">
   
 https://github.com/Bleysiker/Bleysiker/assets/60669370/a99ad774-b433-4986-aa50-b86c2084c2fe
@@ -210,7 +210,7 @@ I led the team in the management and task distribution.
   <table>
 <tr>
 <td width="50%">
-<!-- <h3 align="center">Delivery Journey</h3>-->
+<h3 align="center">2022</h3>
 <div align="center">
   
 
@@ -234,7 +234,7 @@ https://github.com/Bleysiker/Bleysiker/assets/60669370/02500f6d-1b9e-4825-8fdd-5
   <table>
 <tr>
 <td width="50%">
-<!--<h3 align="center">DinoApocalipsis</h3>-->
+<h3 align="center">2021</h3>
 <div align="center">
 
 https://github.com/Bleysiker/Bleysiker/assets/60669370/1048f1ff-ba12-4715-afff-20f3da197c82
@@ -257,7 +257,7 @@ My responsibility included game design, game development and implementation of v
   <table>
 <tr>
 <td width="50%">
-<!--<h3 align="center">Hope for Home</h3>-->
+<h3 align="center">2019</h3>
 <div align="center">
 
 https://github.com/Bleysiker/Bleysiker/assets/60669370/603abb29-a8c6-47c9-80be-d78e1f3b3743
